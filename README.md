@@ -1,7 +1,7 @@
 # Latihan-OOP
 Penjelasan:
 
-Berikut adalah penjelasan tentang kode yang telah Anda buat. Kode ini adalah simulasi pengelolaan data mahasiswa dengan menggunakan kelas dan input yang sudah didefinisikan sebelumnya (tanpa interaksi langsung dengan pengguna).
+Berikut adalah penjelasan tentang kode yang telah saya buat. Kode ini adalah simulasi pengelolaan data mahasiswa dengan menggunakan kelas dan input yang sudah didefinisikan sebelumnya (tanpa interaksi langsung dengan pengguna).
 
 ### 1. **Kelas `Mahasiswa`**:
    - Kelas ini mendefinisikan objek mahasiswa dengan tiga atribut: `nim`, `nama`, dan `jurusan`.
